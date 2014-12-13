@@ -1,7 +1,7 @@
-hello-world
-===========
+hello-world namaste also
+========================
 
-A hello world repository for fun.
+Namashkar everyone! A hello world repository for super fun.
 
 And now this one is in a branch and has some extra edits
 
